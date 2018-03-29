@@ -1,2 +1,1 @@
-# JoinLeaveMessagesUI-RocketMod
-# JoinLeaveMessagesUI-RocketMod
+# Plugin for RocketMod
