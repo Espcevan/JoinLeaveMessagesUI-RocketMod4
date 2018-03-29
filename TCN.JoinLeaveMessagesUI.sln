@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCN.JoinLeaveMessagesUI", "TCN.JoinLeaveMessagesUI\TCN.JoinLeaveMessagesUI.csproj", "{3FD67F79-79E8-4F75-A4AB-C9D389C32A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD67F79-79E8-4F75-A4AB-C9D389C32A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD67F79-79E8-4F75-A4AB-C9D389C32A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD67F79-79E8-4F75-A4AB-C9D389C32A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD67F79-79E8-4F75-A4AB-C9D389C32A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73FB27D-3166-4035-BFD6-39500D36D986}
+	EndGlobalSection
+EndGlobal

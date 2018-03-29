@@ -1,0 +1,5 @@
+C:\Users\korov\source\repos\TCN.JoinLeaveMessagesUI\TCN.JoinLeaveMessagesUI\bin\Release\TCN.JoinLeaveMessagesUI.dll
+C:\Users\korov\source\repos\TCN.JoinLeaveMessagesUI\TCN.JoinLeaveMessagesUI\bin\Release\TCN.JoinLeaveMessagesUI.pdb
+C:\Users\korov\source\repos\TCN.JoinLeaveMessagesUI\TCN.JoinLeaveMessagesUI\obj\Release\TCN.JoinLeaveMessagesUI.csproj.CoreCompileInputs.cache
+C:\Users\korov\source\repos\TCN.JoinLeaveMessagesUI\TCN.JoinLeaveMessagesUI\obj\Release\TCN.JoinLeaveMessagesUI.dll
+C:\Users\korov\source\repos\TCN.JoinLeaveMessagesUI\TCN.JoinLeaveMessagesUI\obj\Release\TCN.JoinLeaveMessagesUI.pdb

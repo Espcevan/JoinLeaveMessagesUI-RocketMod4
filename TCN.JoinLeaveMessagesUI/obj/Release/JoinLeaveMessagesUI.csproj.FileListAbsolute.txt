@@ -1,0 +1,6 @@
+c:\users\korov\source\repos\JoinLeaveMessagesUI\JoinLeaveMessagesUI\bin\Release\JoinLeaveMessagesUI.dll
+c:\users\korov\source\repos\JoinLeaveMessagesUI\JoinLeaveMessagesUI\bin\Release\JoinLeaveMessagesUI.pdb
+c:\users\korov\source\repos\JoinLeaveMessagesUI\JoinLeaveMessagesUI\obj\Release\JoinLeaveMessagesUI.csproj.CoreCompileInputs.cache
+c:\users\korov\source\repos\JoinLeaveMessagesUI\JoinLeaveMessagesUI\obj\Release\JoinLeaveMessagesUI.dll
+c:\users\korov\source\repos\JoinLeaveMessagesUI\JoinLeaveMessagesUI\obj\Release\JoinLeaveMessagesUI.pdb
+C:\Users\korov\source\repos\JoinLeaveMessagesUI\JoinLeaveMessagesUI\obj\Release\JoinLeaveMessagesUI.csprojResolveAssemblyReference.cache
