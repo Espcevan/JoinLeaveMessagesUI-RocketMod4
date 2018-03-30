@@ -62,7 +62,6 @@ namespace TheCubicNoobik.JoinLeaveMessagesUI
                 foreach (UnturnedPlayer currentplayer in Players())
                 {
                     EffectManager.sendUIEffect(Instance.Configuration.Instance.JoinEffectId, short.Parse((player.CSteamID.m_SteamID / 9390480284090).ToString()), currentplayer.CSteamID, false, string.Format(Instance.Translate("connected"), player.CharacterName, "#" + hexCC));
-                    Logger.Log(hexCC);
                 }
             }
         }
